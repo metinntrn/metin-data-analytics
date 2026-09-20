@@ -7,20 +7,20 @@ The goal of this repository is to practice real-world data workflows, including 
 
 ---
 
-## 📂 Repository Structure
+📂 Repository Structure
+
 .
 ├── EDA/
 │   ├── dashboard_eda_project/
 │   ├── hr-analytics-dashboard/
 │   └── ...
-│
 ├── data_cleaning/
-│   ├── E-CommerceData Cleaning/
+│   ├── E-CommerceDataCleaning/
 │   ├── YouTubeRecommendation_data_cleaning/
 │   └── retail-data-cleaning/
-│
 ├── requirements.txt
 └── README.md
+
 
 
 ---
