@@ -1,12 +1,13 @@
-# 📊 Data Science
+markdown
+# 📊 Data Analyst
 
 A collection of hands-on **Data Science**, **Exploratory Data Analysis (EDA)**, and **Data Cleaning** projects built with Python.
 
 The goal of this repository is to practice real-world data workflows, including data profiling, preprocessing, visualization, and automated cleaning pipelines.
 
----
 
 ## 📂 Repository Structure
+
 
 ```
 .
@@ -24,7 +25,6 @@ The goal of this repository is to practice real-world data workflows, including 
 └── README.md
 ```
 
----
 
 # 📈 EDA Projects
 
@@ -33,7 +33,7 @@ Projects focused on understanding datasets through statistics and visualization.
 ### Included Projects
 
 - 📊 HR Analytics Dashboard
-- 📊 Sales Dashboard
+- 📊 Apple Products Pricing Dashboard
 - 📊 LLM Usage Dashboard
 - 📊 Exploratory Data Analysis notebooks
 
@@ -88,9 +88,9 @@ Topics covered:
 Clone the repository:
 
 ```bash
-git clone https://github.com/metinntrn/data-science.git
+git clone https://github.com/metinntrn/data-analyst-portfolio.git
 
-cd data-science
+cd data-analyst-portfolio
 ```
 
 Install dependencies:
@@ -143,5 +143,4 @@ This repository documents my journey toward becoming a **Data Scientist** by bui
 
 Aspiring Data Scientist focused on Python, data analysis, visualization, and machine learning.
 
-GitHub:
-https: https://github.com/metinntrn
+🔗 GitHub: https://github.com/metinntrn
