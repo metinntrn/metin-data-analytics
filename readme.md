@@ -8,17 +8,16 @@ The goal of this repository is to practice real-world data workflows, including 
 ---
 
 ## 📂 Repository Structure
-
 .
 ├── EDA/
-│ ├── dashboard_eda_project/
-│ ├── hr-analytics-dashboard/
-│ └── ...
+│   ├── dashboard_eda_project/
+│   ├── hr-analytics-dashboard/
+│   └── ...
 │
 ├── data_cleaning/
-│ ├── E-CommerceData Cleaning/
-│ ├── YouTubeRecommendation_data_cleaning/
-│ └── retail-data-cleaning/
+│   ├── E-CommerceData Cleaning/
+│   ├── YouTubeRecommendation_data_cleaning/
+│   └── retail-data-cleaning/
 │
 ├── requirements.txt
 └── README.md
