@@ -1,5 +1,5 @@
 markdown
-# 📊 Data Analyst Portfolio
+# 📊 Data Analyst
 
 A collection of hands-on **Data Science**, **Exploratory Data Analysis (EDA)**, and **Data Cleaning** projects built with Python.
 
