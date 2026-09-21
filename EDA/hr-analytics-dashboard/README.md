@@ -41,7 +41,7 @@ https://github.com/metinntrn/data-science/tree/main/EDA
   - Gender
   - Job Role
   - Attrition
-- Real-time KPI metrics
+- Dynamic KPI metrics
 - Interactive Plotly visualizations
 - Responsive dark theme
 - Correlation analysis
