@@ -177,35 +177,6 @@ EDA/
 └── images/
 ```
 
----
-
-# 📦 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/metinntrn/data-science.git
-```
-
-Navigate to the project
-
-```bash
-cd data-science/EDA
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run main.py
-```
-
----
 
 # 💼 Business Questions Answered
 
