@@ -88,9 +88,7 @@ Topics covered:
 Clone the repository:
 
 ```bash
-git clone https://github.com/metinntrn/data-analyst-portfolio.git
-
-cd data-analyst-portfolio
+git clone https://github.com/metinntrn/data-analyst.git
 ```
 
 Install dependencies:
@@ -134,7 +132,6 @@ This repository documents my journey toward becoming a **Data Scientist** by bui
 - Time Series Analysis
 - Deep Learning
 - NLP
-
 ---
 
 ## 👨‍💻 Author
