@@ -105,11 +105,10 @@ git clone https://github.com/metinntrn/data-analytics.git
 ```
 
 
-```
+
 
 Each project contains its own README with installation instructions and dependencies.
 
----
 
 ## 📜 License
 
