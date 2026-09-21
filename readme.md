@@ -18,6 +18,8 @@ The goal of this repository is to practice real-world data analyst workflows, in
 │   ├── YouTubeRecommendation_data_cleaning/
 │   └── retail-data-cleaning/
 │
+├── sql/
+│ └── sql-portfolio/
 ├── requirements.txt
 └── README.md
 ```
