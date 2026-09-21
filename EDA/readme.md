@@ -100,13 +100,11 @@ Projects emphasize:
 Clone the repository
 
 ```bash
-git clone https://github.com/metinntrn/data-science.git
+git clone https://github.com/metinntrn/data-analytics.git
+
 ```
 
-Move into the repository
 
-```bash
-cd data-science/EDA
 ```
 
 Each project contains its own README with installation instructions and dependencies.
