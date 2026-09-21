@@ -8,6 +8,7 @@ The goal of this repository is to practice real-world data analyst workflows, in
 
 ```
 .
+.
 ├── EDA/
 │   ├── dashboard_eda_project/
 │   ├── hr-analytics-dashboard/
@@ -19,9 +20,9 @@ The goal of this repository is to practice real-world data analyst workflows, in
 │   └── retail-data-cleaning/
 │
 ├── sql/
-|  └──sqlite
-│ └── sql-poractice/
-|
+│   ├── sqlite/
+│   └── sql-practice/
+│
 ├── requirements.txt
 └── README.md
 ```
