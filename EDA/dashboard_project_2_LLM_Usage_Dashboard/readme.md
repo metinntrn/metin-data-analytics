@@ -103,33 +103,7 @@ Contains information including:
 
 ---
 
-# 📦 Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/llm-usage-dashboard.git
-```
-
-Move into the project
-
-```bash
-cd llm-usage-dashboard
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app.py
-```
-
----
 
 # 📁 Project Structure
 
