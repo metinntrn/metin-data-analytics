@@ -67,26 +67,21 @@ EDA/
 
 Each folder is an independent project with its own source code, documentation, and datasets (when available).
 
----
-
-# 📚 Skills Demonstrated
+```
+# 🎯 Skills Demonstrated
 
 - Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Data Profiling
-- Feature Engineering
+- Data Cleaning and Transformation
+- Business KPI Development
+- Data Aggregation
+- Interactive Data Visualization
 - Dashboard Development
-- Business Intelligence
-- Data Visualization
-- Time Series Processing
-- Statistical Analysis
-- Python Programming
-- Modular Project Design
-
----
+- Business Question Analysis
+- Multi-page Streamlit Applications
+- Streamlit Cloud Deployment
 
 # 🎯 Goals
-
+```
 The purpose of this repository is to build a practical data science portfolio by implementing complete end-to-end projects that mirror real-world analytical workflows.
 
 Projects emphasize:
