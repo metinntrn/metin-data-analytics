@@ -1,13 +1,10 @@
-markdown
-# 📊 Data Analyst
+# 📊 Data Analyst Portfolio
 
-A collection of hands-on **Data Science**, **Exploratory Data Analysis (EDA)**, and **Data Cleaning** projects built with Python.
+A collection of hands-on **Data Analysis**, **Exploratory Data Analysis (EDA)**, **SQL**, and **Data Cleaning** projects built with Python and SQL.
 
-The goal of this repository is to practice real-world data workflows, including data profiling, preprocessing, visualization, and automated cleaning pipelines.
-
+The goal of this repository is to practice real-world data analyst workflows, including data profiling, preprocessing, querying, visualization, and automated cleaning pipelines.
 
 ## 📂 Repository Structure
-
 
 ```
 .
@@ -25,6 +22,8 @@ The goal of this repository is to practice real-world data workflows, including 
 └── README.md
 ```
 
+
+---
 
 # 📈 EDA Projects
 
@@ -45,6 +44,23 @@ Topics covered:
 - Interactive Dashboards
 - Business Insights
 - Plotly Visualizations
+
+---
+
+# 🗄️ SQL Projects
+
+Business-question-driven SQL queries against real-world datasets.
+
+### Included Projects
+
+- 📄 SQL Portfolio (coming soon)
+
+Topics covered:
+
+- Joins & Subqueries
+- Aggregations & Window Functions
+- CTEs
+- Business Q&A style analysis
 
 ---
 
@@ -73,6 +89,7 @@ Topics covered:
 # 🛠 Tech Stack
 
 - Python
+- SQL
 - Pandas
 - NumPy
 - Plotly
@@ -88,7 +105,9 @@ Topics covered:
 Clone the repository:
 
 ```bash
-git clone https://github.com/metinntrn/data-analyst.git
+git clone https://github.com/metinntrn/metin-data-analytics.git
+
+cd metin-data-analytics
 ```
 
 Install dependencies:
@@ -113,31 +132,31 @@ jupyter notebook
 
 # 🎯 Learning Goals
 
-This repository documents my journey toward becoming a **Data Scientist** by building practical projects in:
+This repository documents my journey toward becoming a **Data Analyst** by building practical projects in:
 
 - Exploratory Data Analysis (EDA)
+- SQL Querying
 - Data Cleaning
 - Data Visualization
 - Dashboard Development
 - Statistics
-- Machine Learning (coming soon)
 
 ---
 
 ## 📌 Future Projects
 
-- Machine Learning
+- Power BI Dashboards
+- Advanced SQL Analytics
 - Feature Engineering
-- SQL Projects
 - Time Series Analysis
-- Deep Learning
-- NLP
+- Machine Learning (long-term)
+
 ---
 
 ## 👨‍💻 Author
 
 **Metin**
 
-Aspiring Data Scientist focused on Python, data analysis, visualization, and machine learning.
+Aspiring Data Analyst focused on Python, SQL, data analysis, and visualization.
 
 🔗 GitHub: https://github.com/metinntrn
