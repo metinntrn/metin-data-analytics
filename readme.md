@@ -19,6 +19,7 @@ The goal of this repository is to practice real-world data analyst workflows, in
 │   └── retail-data-cleaning/
 │
 ├── sql/
+|  └──sqlite
 │ └── sql-poractice/
 |
 ├── requirements.txt
