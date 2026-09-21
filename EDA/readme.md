@@ -79,9 +79,10 @@ Each folder is an independent project with its own source code, documentation, a
 - Business Question Analysis
 - Multi-page Streamlit Applications
 - Streamlit Cloud Deployment
+```
 
 # 🎯 Goals
-```
+
 The purpose of this repository is to build a practical data science portfolio by implementing complete end-to-end projects that mirror real-world analytical workflows.
 
 Projects emphasize:
