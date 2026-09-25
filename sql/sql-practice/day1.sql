@@ -20,7 +20,7 @@ SELECT
 FROM job_postings_fact
 WHERE job_title_short = 'Data Analyst'
     AND salary_year_avg > 90000
-ORDER BY salary_year_avg ASC;
+ORDER BY salary_year_avg ASC,job_location DESC;
 
 -- Query 4
 SELECT
